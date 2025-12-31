@@ -1,0 +1,5 @@
+{
+  "name": "StockFlow AI Inventory Manager",
+  "description": "An intelligent inventory triage dashboard with AI-driven recommendations, real-time sales velocity tracking, and streamlined procurement workflows.",
+  "requestFramePermissions": []
+}
